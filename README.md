@@ -1,5 +1,5 @@
 # NiceVisuals
-This is my Unity test work to one Ukrainian startup.
+This is my Unity test work FOR one Ukrainian startup.
 
 ## Task 1
 ![Task 1](https://github.com/Kovnir/NiceVisuals/blob/master/Gif/task1.gif)
